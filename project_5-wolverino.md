@@ -18,7 +18,6 @@ To bring our proof-of-concept to life we will use littleBits, Android, BITalino 
 
 ## Team
 
- * Francisco Mendes
  * Hugo Silva https://pixels.camp/hugoslv
  * Paulo Pires https://pixels.camp/pires
  * Ricardo Pereira
